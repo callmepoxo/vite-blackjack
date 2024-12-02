@@ -1,4 +1,4 @@
-# BlackJack Vite
+# BlackJack JS con Vite
 
 Pasos para ejecutar proyecto:
 
